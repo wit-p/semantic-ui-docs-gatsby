@@ -6,6 +6,32 @@ module.exports = {
     sidebar: {
       pages: [
         {
+          slug: "/activelearnings/sq4r-doc",
+          title: "Active Learning",
+          pages: [
+            {
+              slug: "/activelearnings/sq4r-doc",
+              title: "SQ4Rドキュメント",
+            },
+            {
+              slug: "/activelearnings/sq4r-sheet",
+              title: "SQ4Rスプレッドシート",
+            },
+            {
+              slug: "/activelearnings/sq4r-doc-answer",
+              title: "SQ4R回答",
+            },
+            {
+              slug: "/activelearnings/sq4r-app",
+              title: "SQ4Rアプリ",
+            },
+            // {
+            //   slug: "/guidelines/design-principles",
+            //   title: "Design Principles",
+            // },
+          ],
+        },
+        {
           slug: "/getting-started",
           title: "Getting Started",
         },
@@ -48,18 +74,18 @@ module.exports = {
               title: "Iconography",
             },
             // For Design Systems:
-            // {
-            //   slug: "/styles/imagery",
-            //   title: "Imagery",
-            // },
-            // {
-            //   slug: "/styles/motion",
-            //   title: "Motion",
-            // },
-            // {
-            //   slug: "/styles/voice-and-tone",
-            //   title: "Voice and tone",
-            // },
+            {
+              slug: "/styles/imagery",
+              title: "Imagery",
+            },
+            {
+              slug: "/styles/motion",
+              title: "Motion",
+            },
+            {
+              slug: "/styles/voice-and-tone",
+              title: "Voice and tone",
+            },
           ],
         },
         {
