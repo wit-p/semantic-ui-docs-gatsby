@@ -25,6 +25,10 @@ module.exports = {
               slug: "/activelearnings/sq4r-app",
               title: "SQ4Rアプリ",
             },
+            {
+              slug: "/activelearnings/quickwin-app",
+              title: "クイックウィン",
+            },
             // {
             //   slug: "/guidelines/design-principles",
             //   title: "Design Principles",
