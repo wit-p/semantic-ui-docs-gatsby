@@ -9,25 +9,29 @@ module.exports = {
           slug: "/activelearnings/sq4r-doc",
           title: "Active Learning",
           pages: [
+            // {
+            //   slug: "/activelearnings/sq4r-doc",
+            //   title: "SQ4Rドキュメント",
+            // },
+            // {
+            //   slug: "/activelearnings/sq4r-sheet",
+            //   title: "SQ4Rスプレッドシート",
+            // },
+            // {
+            //   slug: "/activelearnings/sq4r-doc-answer",
+            //   title: "SQ4R回答",
+            // },
             {
-              slug: "/activelearnings/sq4r-doc",
-              title: "SQ4Rドキュメント",
+              slug: "/activelearnings/sq4r",
+              title: "SQ4R",
             },
             {
-              slug: "/activelearnings/sq4r-sheet",
-              title: "SQ4Rスプレッドシート",
-            },
-            {
-              slug: "/activelearnings/sq4r-doc-answer",
-              title: "SQ4R回答",
-            },
-            {
-              slug: "/activelearnings/sq4r-app",
-              title: "SQ4Rアプリ",
-            },
-            {
-              slug: "/activelearnings/quickwin-app",
+              slug: "/activelearnings/quickwin",
               title: "クイックウィン",
+            },
+            {
+              slug: "/activelearnings/swot",
+              title: "SWOT分析",
             },
             // {
             //   slug: "/guidelines/design-principles",
