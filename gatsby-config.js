@@ -33,6 +33,10 @@ module.exports = {
               slug: "/activelearnings/swot",
               title: "SWOT分析",
             },
+            {
+              slug: "/activelearnings/diary",
+              title: "日記",
+            },
             // {
             //   slug: "/guidelines/design-principles",
             //   title: "Design Principles",
