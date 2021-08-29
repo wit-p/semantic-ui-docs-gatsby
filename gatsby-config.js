@@ -41,6 +41,10 @@ module.exports = {
               slug: "/activelearnings/fourquestions",
               title: "４つのなぜ",
             },
+            {
+              slug: "/activelearnings/habits",
+              title: "習慣化",
+            },
             // {
             //   slug: "/guidelines/design-principles",
             //   title: "Design Principles",
