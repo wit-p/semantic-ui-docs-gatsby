@@ -5,8 +5,8 @@
   "version": "0.2.0",
   "author": "Ryosuke <ryosuke.san.hana@gmail.com>",
   "dependencies": {
-    "@mdx-js/mdx": "^1.1.1",
-    "@mdx-js/react": "^1.1.1",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
     "gatsby": "^3.13.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-less": "^5.13.0",
@@ -16,23 +16,23 @@
     "gatsby-plugin-react-helmet": "^4.13.0",
     "gatsby-plugin-sass": "^4.13.0",
     "gatsby-source-filesystem": "^3.13.0",
-    "less": "^3.9.0",
+    "less": "^4.1.1",
     "node-sass": "^6.0.1",
-    "prism-react-renderer": "^0.1.7",
+    "prism-react-renderer": "^1.2.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-copy-to-clipboard": "^5.0.1",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1",
-    "react-live": "^2.2.0",
-    "react-syntax-highlighter": "^11.0.2",
+    "react": "^17.0.2",
+    "react-copy-to-clipboard": "^5.0.4",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-live": "^2.3.0",
+    "react-syntax-highlighter": "^15.4.4",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.87.3"
+    "semantic-ui-react": "^2.0.3"
   },
   "devDependencies": {
-    "html-loader": "^0.5.5",
-    "nodemon": "^1.19.4",
-    "prettier": "^1.18.2"
+    "html-loader": "^2.1.2",
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2"
   },
   "keywords": [
     "react",
